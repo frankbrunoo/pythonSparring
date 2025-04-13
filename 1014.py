@@ -1,4 +1,5 @@
-x, y = map(float, input().split())
+x = int(input())
+y = float(input())
 
 consumo = x / y
 
